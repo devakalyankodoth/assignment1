@@ -1,0 +1,27 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-image: url("img33.jpg");
+    background-size: cover;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+form{
+    float:none;
+    background-color: beige;
+    width: 200px;
+    margin-left: 10px;
+    padding: 2rem;
+    font-size: 18px;
+    border: 1px solid red;
+    margin-top: 50px;
+    margin-right: 10px;
+}
+
+button{
+    background: blue;
+    width: 170px;
+    color: white;
+}
